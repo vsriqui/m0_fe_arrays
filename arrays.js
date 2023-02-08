@@ -13,3 +13,8 @@ var headCoinFlips = [true, false, true, false]
 // Determines whether the value is an array, in this case the value of assignment operator headCoinFlips
 console.log(Array.isArray(headCoinFlips));
 
+//[Intentionally open-ended] Demonstrate your understanding of index positions in this file. You can write an explanation, provide some examples with the Arrays you’ve created, or anything else.
+
+// Index positions relate to the positions occupied by values within arrays.
+// They start at 0, and count upwards.
+// An example: These values from arrays above occupy these index positions Alex "3", 2 "0", and true "0,2".
